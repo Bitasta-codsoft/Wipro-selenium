@@ -9,6 +9,10 @@ This project automates an e-commerce purchase workflow using Selenium WebDriver 
 
 The application used for automation is the TutorialsNinja OpenCart Demo.
 
+## Project Explanation Video
+
+[Watch Project Explanation Video](https://1drv.ms/v/c/64e9907d7900e46b/IQBnOgfErOXQQZv_YCKceU26AebqlEzrBcrPF8wgyikUOVQ?e=lSa7XY)
+
 ## Technologies Used
 
 - Python
@@ -36,6 +40,7 @@ The automation performs the following steps:
 11. Capture screenshots
 12. Generate an HTML execution report
 13. Handle alerts/popups when present
+
 
 ## Project Structure
 
